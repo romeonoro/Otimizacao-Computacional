@@ -5,5 +5,5 @@ def funcao(a,b,x0,x1):
   return result
 
 # simulando
-r = funcao(-5, -11, -2, 5)
+r = funcao(5, -11, -2, 5)
 print(r)

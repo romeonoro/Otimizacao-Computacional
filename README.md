@@ -1,1 +1,6 @@
-# Otimizacao-Computacional
+- f(x) = ax + b
+  - Retas
+  - Duas Retas
+  - Gráficos
+  - Relação
+  - Resolução de Sistemas de Equações

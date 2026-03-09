@@ -1,0 +1,2 @@
+- Esrecever uma função que diagonalize uma matriz de coeficientes.
+- Matriz (2x3) e o sistema deve retornar um vetor com [x,y]
